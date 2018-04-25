@@ -1,0 +1,150 @@
+{
+  "Doge": {
+    "intro": "Doge is a slang term for \"dog\" that is primarily associated with pictures of Shiba Inus",
+    "memeobjects": {
+      "text2speech": [
+        "wow, so scare. many memes.",
+        "such phone call. Many fren."
+      ],
+      "sms": [],
+      "mms": [],
+      "audio": []
+    }
+  },
+  "Forever Alone": {
+    "intro": "Forever Alone is an exploitable rage comic character that is used to express loneliness and disappointment with life.",
+    "memeobjects": {
+      "text2speech": [
+        "New cell phone? More like 200 dollar alarm clock.",
+        "I love my wife. Errrrrgh... wifi."
+      ],
+      "sms": [],
+      "mms": [],
+      "audio": []
+    }
+  },
+  "Lenny Face": {
+    "intro": "Lenny Face is an emoticon created with unicode character symbols. The face is often used to spam forums and image boards, similar to the Japanese word \"desu\".",
+    "memeobjects": {
+      "text2speech": [
+        "deg deg",
+        "Lettuce construct the meme: Left parenthesis, space, combining double inverted breve, degree sign, space combining double breve below, Latin letter inverted glottal stop, space, combining double inverted breve, degree sign, right parenthesis. deg deg."
+      ],
+      "sms": [
+        "( ͡° ͜ʖ ͡°)"
+      ],
+      "mms": [],
+      "audio": []
+    }
+  },
+  "Cat Facts": {
+    "intro": "Welcome to Cat Facts. You have made a huge mistake.",
+    "memeobjects": {
+      "text2speech": [
+        "meooooowwwww! Mew Mew MEW MEOW"
+      ],
+      "sms": [
+        "Cat's use their tails for balance and have nearly 30 individual bones in them!",
+        "In Ancient Egypt killing a cat was a crime punishable by death!",
+        "Did you know the first cat show was held in 1871 at the Crystal Palace in London? Mee-wow!",
+        "Did you know there are about 100 distinct breeds of domestic cat? Plenty of furry love!",
+        "Cats bury their feces to cover their trails from predators"
+      ],
+      "mms": [],
+      "audio": []
+    }
+  },
+  "Me Gusta": {
+    "intro": "Me Gusta is a rage comic face that is typically used to express one's approval of an awkward or perverse situation. The caption \"Me gusta\" translates to \"I like it\" in Spanish.",
+    "memeobjects": {
+      "text2speech": [
+        "It pleases me.",
+        "Me Gustar every mime."
+      ],
+      "sms": [],
+      "mms": [],
+      "audio": []
+    }
+  },
+  "Ermahgerd": {
+    "intro": "Ermahgerd (also known as \"Gersberms\" and \"Berks\"), a rhotacized pronunciation of \"oh my god,\" is an image macro series featuring a photo of a young woman holding several books from the children's horror fiction series Goosebumps. The phonetically written captions are meant to sound like a speech impediment caused by the use of an orthodontic retainer.",
+    "memeobjects": {
+      "text2speech": [
+        "Ermahgerd! Berst mermer phern line erver!",
+        "Ermagerd! Gersbermps!"
+      ],
+      "sms": [],
+      "mms": [],
+      "audio": []
+    }
+  },
+  "Nyan Cat": {
+    "intro": "Nyan cat is an 8-bit animation depicting a cat with the body of a cherry pop tart flying through outer space.",
+    "memeobjects": {
+      "text2speech": [],
+      "sms": [],
+      "mms": [],
+      "audio": [
+        "https://ia800501.us.archive.org/33/items/nyannyannyan/NyanCatoriginal.mp3"
+      ]
+    }
+  },
+  "Navy Seal Copypasta": {
+    "intro": "Navy Seal Copypasta is a facetious message containing a series of ridiculous claims and grandiose threats that portray the poster as an Internet tough guy stereotype.",
+    "memeobjects": {
+      "text2speech": [
+        "What the fuck did you just fucking say about me, you little bitch? I'll have you know I graduated top of my class in the Navy Seals, and I've been involved in numerous secret raids on Al-Quaeda, and I have over 300 confirmed kills. I am trained in gorilla warfare and I'm the top sniper in the entire US armed forces. You are nothing to me but just another target. I will wipe you the fuck out with precision the likes of which has never been seen before on this Earth, mark my fucking words. You think you can get away with saying that shit to me over the Internet? Think again, fucker. As we speak I am contacting my secret network of spies across the USA and your IP is being traced right now so you better prepare for the storm, maggot. The storm that wipes out the pathetic little thing you call your life. You're fucking dead, kid. I can be anywhere, anytime, and I can kill you in over seven hundred ways, and that's just with my bare hands. Not only am I extensively trained in unarmed combat, but I have access to the entire arsenal of the United States Marine Corps and I will use it to its full extent to wipe your miserable ass off the face of the continent, you little shit. If only you could have known what unholy retribution your little \"clever\" comment was about to bring down upon you, maybe you would have held your fucking tongue. But you couldn't, you didn't, and now you're paying the price, you goddamn idiot. I will shit fury all over you and you will drown in it. You're fucking dead, kiddo."
+      ],
+      "sms": [],
+      "mms": [],
+      "audio": []
+    }
+  },
+  "I Took an Arrow in the Knee": {
+    "intro": "I Took an Arrow in the Knee is a memorable quote originating from the role-playing video game The Elder Scrolls V: Skyrim.",
+    "memeobjects": {
+      "text2speech": [
+        "I used to be an adventurer like you, then I took an arrow to the knee.",
+        "We are the knights who say \"arrow to the knee...\""
+      ],
+      "sms": [],
+      "mms": [],
+      "audio": []
+    }
+  },
+  "Scumbag Steve": {
+    "intro": "Scumbag Steve is an image macro series featuring a kid with a sideways fitted cap standing in a hallway. The overlaid text generally centers around unethical behavior regarding drugs, partying, and other hedonistic behaviors.",
+    "memeobjects": {
+      "text2speech": [
+        "Grandpa gets surgery... Steals pain meds.",
+        "No bro, it's spelled l i b e r r y",
+        "Says he'll do anything for love... Won't do that."
+      ],
+      "sms": [],
+      "mms": [],
+      "audio": []
+    }
+  },
+  "Pepe the Frog": {
+    "intro": "This may may has been banned by the council to re-elect Hillary Clinton! Your phone number has been logged and will be reported for showing interest in hate speech. Please hang up and K Y S.",
+    "memeobjects": {
+      "text2speech": [],
+      "sms": [],
+      "mms": [],
+      "audio": []
+    }
+  },
+  "Overly Attached Girlfriend": {
+    "intro": "Overly Attached Girlfriend is an advice animal image macro featuring webcam picture of vlogger Laina Morris and various captions portraying her in the stereotype of an overprotective and clingy girlfriend.",
+    "memeobjects": {
+      "text2speech": [
+        "You ate at Wendy's? Who the fuck is Wendy?",
+        "Oh, you found someone else? I'm pregnant.",
+        "Hey I just met you, and this is crazy. I have your number, I want your babies."
+      ],
+      "sms": [],
+      "mms": [],
+      "audio": []
+    }
+  }
+}
